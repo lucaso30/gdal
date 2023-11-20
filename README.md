@@ -4,7 +4,7 @@ GDAL - Geospatial Data Abstraction Library
 [![Build Status](https://github.com/OSGeo/gdal/workflows/Linux%20Builds/badge.svg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22Linux+Builds%22+branch%3Amaster)
 [![Build Status](https://github.com/OSGeo/gdal/workflows/MacOS%20build/badge.svg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22MacOS+build%22+branch%3Amaster)
 [![Build Status](https://github.com/OSGeo/gdal/workflows/Windows%20builds/badge.svg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22Windows+builds%22+branch%3Amaster)
-[![Build Status](https://github.com/OSGeo/gdal/workflows/Android%20build/badge.svg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22Android+build%22+branch%3Amaster)
+[![Build Status](https://github.com/OSGeo/gdal/workflows/Android%20build/badge.svbg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22Android+build%22+branch%3Amaster)
 [![Build Status](https://github.com/OSGeo/gdal/workflows/CLang%20Static%20Analyzer/badge.svg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22CLang+Static+Analyzer%22+branch%3Amaster)
 [![Build Status](https://github.com/OSGeo/gdal/workflows/Code%20Checks/badge.svg)](https://github.com/osgeo/gdal/actions?query=workflow%3A%22Code+Checks%22+branch%3Amaster)
 [![Build Status](https://travis-ci.com/OSGeo/gdal.svg?branch=master)](https://travis-ci.com/OSGeo/gdal)
